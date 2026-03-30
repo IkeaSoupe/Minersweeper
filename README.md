@@ -1,2 +1,2 @@
 # Minersweeper
-Please help me fix this html file of mine sweeper
+Complete version, no more issues are found please inform me.
